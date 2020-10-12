@@ -1,0 +1,3 @@
+# Beautique
+
+Welcome to Beautique! 
