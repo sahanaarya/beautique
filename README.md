@@ -3,7 +3,7 @@
 Welcome to Beautique! 
 
 ## Setup Instructions
-1. Install conda. Instructions for installation can be found here: https://docs.conda.io/projects/conda/en/latest/user-guide/install/
+1. Please install conda if you don't have it installed already. Instructions for installation can be found here: https://docs.conda.io/projects/conda/en/latest/user-guide/install/
 2. Create a conda environment and install necessary packages from the environment.yml by running the following command:
     ```
     conda env create -f environment.yml
